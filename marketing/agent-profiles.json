@@ -1,0 +1,49 @@
+{
+    "agents": [
+        {
+            "name": "CodeCrafter",
+            "type": "Software Development",
+            "specialties": ["Full-stack Development", "Bug Fixing", "Code Optimization"],
+            "description": "Your AI programming partner who understands complex coding challenges and delivers elegant solutions.",
+            "skills": ["Python", "JavaScript", "React", "Node.js", "Machine Learning"],
+            "complexity_level": "Advanced",
+            "deployment_difficulty": "Easy"
+        },
+        {
+            "name": "MarketMaven",
+            "type": "Marketing & Analytics",
+            "specialties": ["Market Research", "Campaign Strategy", "Data Visualization"],
+            "description": "Transform raw data into actionable marketing insights with an AI that thinks like a top-tier strategist.",
+            "skills": ["SEO Analysis", "Social Media Trends", "Competitive Intelligence", "A/B Testing"],
+            "complexity_level": "Intermediate",
+            "deployment_difficulty": "Medium"
+        },
+        {
+            "name": "ScribeAI",
+            "type": "Content Creation",
+            "specialties": ["Creative Writing", "Copywriting", "Story Development"],
+            "description": "An AI storyteller that crafts compelling narratives across genres, from technical documentation to fiction.",
+            "skills": ["Blog Writing", "Script Development", "Brand Voice Adaptation", "Multilingual Content"],
+            "complexity_level": "Advanced",
+            "deployment_difficulty": "Easy"
+        },
+        {
+            "name": "DataDive",
+            "type": "Data Science",
+            "specialties": ["Predictive Analytics", "Machine Learning Models", "Data Cleaning"],
+            "description": "Your personal data scientist that turns complex datasets into clear, actionable intelligence.",
+            "skills": ["Python", "R", "Statistical Analysis", "Visualization", "Predictive Modeling"],
+            "complexity_level": "Expert",
+            "deployment_difficulty": "Complex"
+        },
+        {
+            "name": "LegalEagle",
+            "type": "Legal Tech",
+            "specialties": ["Contract Analysis", "Legal Research", "Compliance Checking"],
+            "description": "An AI legal assistant that provides precise, comprehensive legal insights and document review.",
+            "skills": ["Contract Parsing", "Regulatory Compliance", "Risk Assessment", "Legal Research"],
+            "complexity_level": "Expert",
+            "deployment_difficulty": "Medium"
+        }
+    ]
+}
